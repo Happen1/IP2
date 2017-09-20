@@ -1,0 +1,126 @@
+          .header {
+            text-align: center;
+            background-image: url("../images/landing.jpg");
+            padding-bottom: 150px;
+            padding-top: 80px;
+          }
+
+          p {
+            color: white;
+          }
+
+          #hh {
+            background-color: lightgrey;
+            color: white;
+            text-align: center;
+            padding: 42.5px;
+            margin-bottom: 0px;
+          }
+
+          #pt {
+            background-color: #F15A29;
+            text-align: center;
+            padding: 42.5px;
+            color: white;
+            margin-top: 0px;
+          }
+
+          #bf {
+            text-align: center;
+            background-image: url("../images/breakfast.jpg");
+            color: white;
+            padding: 95px;
+          }
+
+          #lh {
+            text-align: center;
+            background-image: url("../images/assets/foodtop/dinner2.jpg");
+            color: white;
+            padding: 95px;
+          }
+
+          #dr {
+            text-align: center;
+            background-image: url("../images/assets/foodtop/dinner.jpg");
+            color: white;
+            padding: 95px;
+          }
+
+          .col-md-3 {
+            text-align: center;
+            margin-top: 0px;
+            padding: 0px;
+          }
+
+          .col-md-6 {
+            margin-top: 80px;
+          }
+
+          .fastfd {
+            padding: 12px 10px 12px 19px;
+            margin: 10px;
+            box-shadow: rgba(83, 42, 86, 0.28) 0px 1px 10px;
+          }
+
+          h1 {
+            padding-top: 30px;
+          }
+
+          .dk {
+            text-align: right;
+          }
+
+          .mk {
+            box-shadow: rgba(83, 42, 86, 0.28) 0px 1px 10px;
+            padding: 12px 20px 12px 20px;
+            margin: 20px;
+            margin-left: 0px;
+          }
+
+          .bg {
+            background-image: url("../images/assets/backgrounds/foodsBg.jpg");
+            height: 599px;
+            background-size: cover;
+          }
+
+          .myfirst {
+            background-color: white;
+            height: 400px;
+            /*padding: 50px 0 50px 0;*/
+            text-align: center;
+            margin: 50px;
+          }
+
+          .myfirst .col-md-3 {
+            padding: 0;
+            margin: 0px;
+          }
+
+          .active {
+            color: red;
+            background-color: white;
+            padding: 0;
+            margin: 0px;
+          }
+
+          .inactive {
+            color: black;
+            background-color: grey;
+            padding: 0;
+            margin: 0;
+          }
+
+          h5 {
+            color: red;
+            margin: 0px;
+            padding: 5% 0 5% 0;
+          }
+
+          .col-md-4 {
+            padding-top: 40px;
+          }
+
+          .myfirst .col-md-3 :hover:not(.active) {
+            background-color: white;
+            cursor: pointer;
+          }
